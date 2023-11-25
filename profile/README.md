@@ -1,6 +1,7 @@
 ## Industry Software Solution
 This organization will be a place for industrial automation solutions like:
 
+![Alt text](https://github.com/Technical-Software-Solutions/.github/blob/main/Five-Industry-revolutions-Industry.png)
 
 # 1. Robotics and Collaborative Automation
 # 2. Artificial Intelligence (AI) and Machine Learning
